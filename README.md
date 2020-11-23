@@ -12,4 +12,4 @@
 
 **Template**
 
-![image](public/img/template.png)
+![image](public/image/template.png)
